@@ -1,0 +1,45 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true
+    }
+
+
+  ],
+
+  "VerticalLayout": {
+    "layout": "list",
+    "name": "Recent Products"
+  },
+  "Setting": {
+    "MainColor": "#2eb081",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "sideMenu",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png"
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604087421848",
+    "firebase_url": "https://fruitplus-5d8f8.firebaseio.com",
+    "project_id": "fruitplus-5d8f8",
+    "storage_bucket": "fruitplus-5d8f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604087421848:android:99ae322d44ddd0909039ed",
+        "android_client_info": {
+          "package_name": "com.ayrop.fruitplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604087421848-chuovsfo8vuvabtifp71253765bkbo04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZvW2rA6ItgaNKZoWcfGJyuYt845-bSDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604087421848-chuovsfo8vuvabtifp71253765bkbo04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
